@@ -1,0 +1,12 @@
+body {
+   background-color: greenyellow;
+ .wrapper {
+   background-color: #dffbee;
+ }
+
+ header {
+   background-color: #487a64;
+   padding: 25px;
+   text-align: center;
+   color: whitesmoke;
+ }
